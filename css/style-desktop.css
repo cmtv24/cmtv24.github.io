@@ -70,7 +70,7 @@
 
 #nav2 a {
 	display: block;
-	float: left;
+	/*float: left;*/
 	margin-right: 0px;
 	padding: 0.75em 1.5em;
 	text-decoration: none;
