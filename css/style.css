@@ -20,12 +20,13 @@ body, #skel-panels-pageWrapper {
 }
 
 h1, h2, h3 {
-	margin: 0em;
+	margin: 6px 10px 9px 52px;
 	padding: 0em;
 	text-transform: none;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
-	color: #887644;
+	color: #844;
+	font-size: 32px;
 }
 
 h2 {
@@ -33,9 +34,10 @@ h2 {
 }
 
 p {
-	line-height: 170%;
+	line-height: 129%;
 	width: 350px;
 	font-size: 22px;
+	text-decoration: none;
 }
 
 a {
