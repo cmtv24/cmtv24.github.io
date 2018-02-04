@@ -222,8 +222,8 @@
 }
 
 #header .inner img {
-   width: 36%;
-   margin-top: 10px;
+   width: 23%;
+   margin-top: 0px;
 }
 ul li {
    padding-left: 0;
@@ -254,8 +254,9 @@ ul li {
 
 @media screen and (max-width: 316px) {
   #header .inner img {
-   width: 66%;
-   margin-top: 5px;
+   width: 34%;
+   margin-top: 4px;
+   /*! float: l; */
 }
 #header {
    padding: 5px 0 0px 0;
@@ -263,7 +264,7 @@ ul li {
 #header nav {
    float: left;
    /* padding-top: 12px; */
-   top: 53px;
+   top: 108px;
 }
 #header .inner {
     text-align: center; 

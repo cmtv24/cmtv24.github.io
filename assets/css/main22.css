@@ -2461,7 +2461,7 @@
 				width: 100%;
 				border-top-left-radius: 4px;
 				border-top-right-radius: 4px;
-				height: 192px;
+				height: 100%;
 				margin-bottom: 9px;
 				/*! color: red; */
 			}
@@ -2646,13 +2646,13 @@
 		}
 		#header .inner {
 			text-align: left;
-			padding-bottom: 33px;
+			padding-bottom: 0px;
 		}
 		#header .inner .logo{
 			font-size: 30px;
 		}
 		#header .inner img{
-			width: 22%;
+			width: 9%;
 		}
 
 @media screen and (max-width:316px) {
