@@ -168,7 +168,7 @@
 #header nav {
    float: left;
    /* padding-top: 12px; */
-   top: 37px;
+   top: 82px;
 }
 
 #nav a {
@@ -180,7 +180,7 @@
    text-transform: none;
    font-family: 'Abel', sans-serif;
    font-size: 16px;
-   color: #FCCACA;
+   color: #FFF;
 }
 #header span img{
          width: 22%;
@@ -223,10 +223,10 @@
 
 #header .inner img {
    width: 23%;
-   margin-top: 0px;
+   margin-top: -16px;
 }
 ul li {
-   padding-left: 0;
+   padding-left: 7px;
 }
 
 #nav {
@@ -245,11 +245,23 @@ ul li {
   padding: 0px 3px;
   text-decoration: none;
 
-  font-size: 12px;
+  font-size: 18px;
 
  
 }
+   #header .inner {
+	text-align: left;
+	padding-bottom: 38px;
+}
 
+   #nav .current_page_item a {
+	background: #ff0012;
+	color: #FFF;
+	box-shadow: inset 0px -15px 10px 0px rgba(0,0,0,0.25);
+	text-shadow: none;
+	border: 3px solid #71646466;
+	border-radius: 9px;
+}
 }
 
 @media screen and (max-width: 316px) {
